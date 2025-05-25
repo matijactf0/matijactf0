@@ -170,7 +170,7 @@ current_projects = {
 
 ### 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=matijactf0/your-repo&type=Date&theme=dark)](https://star-history.com/#matijactf0/your-repo&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=matijactf0/electron-calculator&type=Date&theme=dark)](https://star-history.com/#matijactf0/electron-calculator&Date)
 
 </div>
 
@@ -193,10 +193,7 @@ current_projects = {
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-discord)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your-telegram)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/xlowbb)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Waving Hand"/> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
@@ -222,7 +219,7 @@ current_projects = {
 
 <div align="center">
 
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-username)
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/matijactf0)
 
 </div>
 
