@@ -1,33 +1,140 @@
-<h1 align="center">Hi 👋, I'm M4TIJ4, a passionate 16 year-old programmer. Despite my young age, I'm deeply immersed in the world of coding. I have a special love for Go, CSS, and HTML among many other technologies.</h1>
-<h3 align="center">"Building the Digital Future One Line of Code at a Time 🌐✨</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matijactf0&label=Profile%20views&color=0e75b6&style=flat" alt="matijactf0" /> </p>
+# Hi 👋, I'm M4TIJ4
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=matijactf0" alt="matijactf0" /></a> </p>
+### 🇷🇸 17-year-old Developer & Cybersecurity Enthusiast from Serbia
 
-- 🔭 I am not **currently employed but I am actively helping with various Discord Bot projects and others**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Junior+Developer;Cybersecurity+Researcher;Open+Source+Contributor;Building+Digital+Solutions" alt="Typing SVG" />
 
-- 🌱 I’m currently learning **HTML, CSS, Go, JavaScript, and Python to expand my coding skills and knowledge.**
+</div>
 
-- 👯 I’m looking to collaborate **on exciting Discord projects and initiatives If you're interested in teaming up or have ideas to explore feel free to reach out to me on Discord! Lets create something amazing together**
+---
 
-- 🤝 I’m looking for help with **/**
+## 🚀 About Me
 
-- 💬 Ask me about **If you have any questions about these programming languages, feel free to ask, and I'll do my best to help when I have the time**
+\`\`\`yaml
+name: "Matija"
+age: 17
+location: "Serbia 🇷🇸"
+focus: ["Development", "Cybersecurity", "Open Source"]
+motto: "Building the Digital Future One Line of Code at a Time"
+\`\`\`
 
-- 📫 How to reach me **You can contact me via Discord server Discord DM or Telegram. Feel free to connect**
+- 🔐 **Cybersecurity Enthusiast** - Passionate about ethical hacking and penetration testing
+- 💻 **Junior Developer** - Creating web applications and desktop software
+- 🌱 **Continuous Learner** - Always exploring new technologies and methodologies
+- 🎯 **Goal-Oriented** - Working towards becoming a cybersecurity expert
+- 🤝 **Collaborator** - Open to exciting projects and partnerships
 
-- ⚡ Fun fact **The first computer "bug" was an actual insect In 1947 when engineers were working on the Harvard Mark II computer they found a moth trapped inside a relay causing a malfunction They referred to it as the "first actual case of a bug" This term stuck and is still used today to describe software glitches**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🛠️ Tech Arsenal
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+<div align="center">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=matijactf0&show_icons=true&locale=en&layout=compact" alt="matijactf0" /></p>
+### Languages
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matijactf0&show_icons=true&locale=en" alt="matijactf0" /></p>
+### Tools & Frameworks
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=matijactf0&" alt="matijactf0" /></p>
+### Cybersecurity
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=matijactf0&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matijactf0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=matijactf0&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=FFFFFF)
+
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=matijactf0&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+\`\`\`python
+current_projects = {
+    "learning": [
+        "Advanced Go programming",
+        "Cybersecurity frameworks", 
+        "Penetration testing methodologies",
+        "Cloud security practices"
+    ],
+    "building": [
+        "Desktop applications with Electron",
+        "Security automation tools",
+        "Discord bots and integrations",
+        "Web applications with modern frameworks"
+    ],
+    "goals": [
+        "Contribute to major open source projects",
+        "Obtain cybersecurity certifications",
+        "Build a strong developer portfolio",
+        "Connect with the global tech community"
+    ]
+}
+\`\`\`
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-discord)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your-telegram)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+
+</div>
+
+---
+
+## 💡 Fun Fact
+
+> The first computer "bug" was an actual insect! In 1947, engineers working on the Harvard Mark II computer found a moth trapped inside a relay, causing a malfunction. They referred to it as the "first actual case of a bug" - a term that stuck and is still used today to describe software glitches.
+
+---
+
+<div align="center">
+
+### 🇷🇸 Proudly representing Serbia in the global tech community 🇷🇸
+
+![Profile Views](https://komarev.com/ghpvc/?username=matijactf0&label=Profile%20views&color=00D9FF&style=for-the-badge)
+
+**⭐ If you find my projects interesting, feel free to star them! ⭐**
+
+*"In cybersecurity, the only constant is change. Stay curious, stay secure."*
+
+</div>
