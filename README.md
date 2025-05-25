@@ -4,7 +4,9 @@
 
 ### 🇷🇸 17-year-old Developer & Cybersecurity Enthusiast from Serbia
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Junior+Developer;Cybersecurity+Researcher;Open+Source+Contributor;Building+Digital+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Junior+Developer;Cybersecurity+Researcher;Open+Source+Contributor;Building+Digital+Solutions;Ethical+Hacker+in+Training" alt="Typing SVG" />
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 </div>
 
@@ -22,7 +24,21 @@ focus:
   - "Open Source"
 motto: "Building the Digital Future One Line of Code at a Time"
 status: "Junior Developer & Security Enthusiast"
+currently_learning:
+  - "Advanced Go programming"
+  - "Ethical hacking techniques"
+  - "Penetration testing"
+interests:
+  - "Bug bounty hunting"
+  - "CTF competitions"
+  - "Open source contributions"
 \`\`\`
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" alt="Coding GIF"/>
+
+</div>
 
 - 🔐 **Cybersecurity Enthusiast** - Passionate about ethical hacking and penetration testing
 - 💻 **Junior Developer** - Creating web applications and desktop software  
@@ -55,6 +71,8 @@ status: "Junior Developer & Security Enthusiast"
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="300" alt="Hacker GIF"/>
 
 </div>
 
@@ -116,19 +134,56 @@ current_projects = {
 }
 \`\`\`
 
+<div align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation"/>
+
+</div>
+
 ---
 
 ## 🔐 Cybersecurity Journey
 
 <div align="center">
 
-| **Area** | **Status** | **Focus** |
-|----------|------------|-----------|
-| 🕵️ **Ethical Hacking** | 🟡 Learning | Web App Penetration Testing |
-| 🛡️ **Network Security** | 🟡 Learning | Firewall Configuration & Analysis |
-| 🔍 **Malware Analysis** | 🟠 Beginner | Static & Dynamic Analysis |
-| 📱 **Mobile Security** | 🟠 Beginner | Android Security Testing |
-| ☁️ **Cloud Security** | 🟠 Beginner | AWS Security Best Practices |
+| **Area** | **Status** | **Focus** | **Progress** |
+|----------|------------|-----------|--------------|
+| 🕵️ **Ethical Hacking** | 🟡 Learning | Web App Penetration Testing | ████████░░ 80% |
+| 🛡️ **Network Security** | 🟡 Learning | Firewall Configuration & Analysis | ██████░░░░ 60% |
+| 🔍 **Malware Analysis** | 🟠 Beginner | Static & Dynamic Analysis | ████░░░░░░ 40% |
+| 📱 **Mobile Security** | 🟠 Beginner | Android Security Testing | ███░░░░░░░ 30% |
+| ☁️ **Cloud Security** | 🟠 Beginner | AWS Security Best Practices | ██░░░░░░░░ 20% |
+
+</div>
+
+---
+
+## 📈 Activity & Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=matijactf0&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)
+
+</div>
+
+<div align="center">
+
+### 🌟 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=matijactf0/your-repo&type=Date&theme=dark)](https://star-history.com/#matijactf0/your-repo&Date)
+
+</div>
+
+---
+
+## 🎮 Coding Stats
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="Matrix GIF"/>
 
 </div>
 
@@ -143,6 +198,8 @@ current_projects = {
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="Waving Hand"/> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
 </div>
 
 ---
@@ -150,6 +207,8 @@ current_projects = {
 ## 💡 Developer Wisdom
 
 <div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
 > *"The best way to predict the future is to create it."* - Peter Drucker
 
@@ -159,11 +218,11 @@ current_projects = {
 
 ---
 
-## 📈 Activity Graph
+## 🎵 Spotify Playing
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=matijactf0&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true)
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-username)
 
 </div>
 
@@ -172,7 +231,11 @@ current_projects = {
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=matijactf0&label=Profile%20views&color=00D9FF&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/matijactf0?label=Followers&style=for-the-badge&color=00D9FF)
+![Stars](https://img.shields.io/github/stars/matijactf0?label=Stars&style=for-the-badge&color=00D9FF)
 
 **⭐ If you find my projects interesting, feel free to star them! ⭐**
+
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%" alt="Coding GIF"/>
 
 </div>
