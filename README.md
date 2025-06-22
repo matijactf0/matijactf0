@@ -234,8 +234,6 @@ currently learning ethical hacking and penetration testing through:
 
 *building the future, one line of code at a time* 🚀
 
-<img src="https://flagcdn.com/w30/rs.png" alt="Serbia flag"/> **proudly coding from serbia** <img src="https://flagcdn.com/w30/rs.png" alt="Serbia flag"/>
-
 **⭐ if you find my work interesting, feel free to star my repositories! ⭐**
 
 </div>
