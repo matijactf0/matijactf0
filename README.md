@@ -180,7 +180,7 @@ const matija = {
   ],
   
   building: [
-    "🎮 spacevin - game hosting platform (react/node.js)",
+    "🎮 matija - game hosting platform (react/node.js)",
     "🤖 advanced discord bot framework with plugins",
     "💼 personal portfolio with next.js & framer motion", 
     "🔧 developer tools & automation scripts",
@@ -241,7 +241,7 @@ const matija = {
 
 <div align="center">
 
-[![spacevin](https://github-readme-stats.vercel.app/api/pin/?username=matijactf0&repo=spacevin&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=FFFFFF)](https://github.com/matijactf0/spacevin)
+[![calculator](https://github-readme-stats.vercel.app/api/pin/?username=matijactf0&repo=electron-calculator&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=FFFFFF)](https://github.com/matijactf0/spacevin)
 [![discord-bot](https://github-readme-stats.vercel.app/api/pin/?username=matijactf0&repo=discord-bot&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=FFFFFF)](https://github.com/matijactf0/discord-bot)
 
 [![portfolio](https://github-readme-stats.vercel.app/api/pin/?username=matijactf0&repo=portfolio&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=FFFFFF)](https://github.com/matijactf0/portfolio)
