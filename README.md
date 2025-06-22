@@ -2,9 +2,9 @@
 
 # 👋 hi, i'm matija
 
-### 🇷🇸 full-stack developer • game server specialist • discord bot creator
+### <img src="https://flagcdn.com/w40/rs.png" width="20" alt="Serbia flag"/> 17-year-old full-stack developer from serbia
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=FF6B35&center=true&vCenter=true&width=800&lines=full-stack+developer+%7C+3%2B+years+experience;game+server+hosting+specialist;discord+bot+development+expert;open+source+contributor;building+digital+solutions+%E2%9A%A1;always+learning+new+technologies+%F0%9F%9A%80;available+for+exciting+projects+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=2000&pause=800&color=FF6B35&center=true&vCenter=true&width=900&lines=17+years+old+%7C+full-stack+developer+%F0%9F%94%A5;game+server+hosting+specialist+%F0%9F%8E%AE;discord+bot+development+expert+%F0%9F%A4%96;open+source+contributor+%E2%9A%A1;building+digital+solutions+%F0%9F%9A%80;always+learning+new+tech+%F0%9F%8C%B1;available+for+projects+%F0%9F%92%8E" alt="Typing SVG" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
@@ -12,7 +12,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
 </picture>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=header&animation=twinkling&fontColor=FF6B35"/>
 
 </div>
 
@@ -20,12 +20,13 @@
 
 ## 🚀 about me
 
-<img align="right" alt="coding gif" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding gif" width="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 \`\`\`yaml
 name: matija
-age: 20
-location: belgrade, serbia 🇷🇸
+age: 17
+location: serbia
+flag: 🇷🇸
 role: full-stack developer
 experience: 3+ years
 specialization:
@@ -38,6 +39,8 @@ status: available for work
 email: hi@matkez.dev
 timezone: CET (UTC+1)
 languages: [serbian, english]
+coding_since: 2021
+favorite_stack: [typescript, react, node.js]
 \`\`\`
 
 <br clear="right"/>
@@ -45,8 +48,8 @@ languages: [serbian, english]
 - 💻 **full-stack developer** - crafting modern web applications with cutting-edge technologies
 - 🎮 **game server expert** - specializing in fivem, minecraft, and custom hosting solutions  
 - 🤖 **discord bot architect** - building advanced bots with complex functionality and integrations
-- 🌐 **api integration specialist** - connecting systems and automating workflows
-- 🗄️ **database designer** - optimizing data structures for performance and scalability
+- 🌐 **api integration specialist** - connecting systems and automating workflows seamlessly
+- 🗄️ **database designer** - optimizing data structures for maximum performance and scalability
 - 🌱 **continuous learner** - always exploring emerging technologies and industry best practices
 - 🎯 **problem solver** - turning complex requirements into elegant, scalable solutions
 - 🤝 **collaboration enthusiast** - available for exciting projects and long-term partnerships
@@ -112,7 +115,7 @@ languages: [serbian, english]
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matijactf0&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&icon_color=FF6B35&text_color=FFFFFF&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matijactf0&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF&langs_count=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matijactf0&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF&langs_count=12"/>
 
 </div>
 
@@ -160,7 +163,11 @@ languages: [serbian, english]
 ## 🎯 current focus & projects
 
 \`\`\`javascript
-const currentStatus = {
+const matija = {
+  age: 17,
+  location: "belgrade, serbia 🇷🇸",
+  currentStatus: "building the future, one line of code at a time",
+  
   learning: [
     "advanced typescript patterns & generics",
     "microservices architecture with docker",
@@ -171,6 +178,7 @@ const currentStatus = {
     "websocket real-time applications",
     "advanced database optimization"
   ],
+  
   building: [
     "🎮 spacevin - game hosting platform (react/node.js)",
     "🤖 advanced discord bot framework with plugins",
@@ -181,6 +189,7 @@ const currentStatus = {
     "📱 mobile-responsive admin panels",
     "🔐 authentication & authorization systems"
   ],
+  
   goals: [
     "contribute to major open source projects",
     "build scalable saas applications",
@@ -188,10 +197,12 @@ const currentStatus = {
     "master cloud technologies (aws/azure)",
     "create educational content for developers",
     "obtain relevant certifications",
-    "mentor junior developers",
+    "mentor other young developers",
     "speak at tech conferences"
   ],
-  availability: "open for freelance projects & collaborations"
+  
+  availability: "open for freelance projects & collaborations",
+  motto: "age is just a number, code quality is everything"
 }
 \`\`\`
 
@@ -201,20 +212,26 @@ const currentStatus = {
 
 <div align="center">
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31k6hzp4c2rgzk6q5q7kzqpqvhqy&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=ff6b35&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31k6hzp4c2rgzk6q5q7kzqpqvhqy&redirect=true)
+[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/matijactf0)
 
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="music gif"/>
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=matijactf0&count=3&unique=true" alt="Spotify recently played" />
+
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="250" alt="music gif"/>
+
+*currently vibing to some beats while coding* 🎧
 
 </div>
 
 ---
 
-## 📈 coding activity
+## 📈 coding activity & wakatime stats
 
 <div align="center">
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=matijactf0&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B35&text_color=FFFFFF" alt="Wakatime stats" />
 
 </div>
 
@@ -234,18 +251,18 @@ const currentStatus = {
 
 ---
 
-## 🎨 design philosophy
+## 🎨 design philosophy & approach
 
 <div align="center">
 
 > *"good design is not just what it looks like and feels like.  
 > good design is how it works."* - steve jobs
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="design gif"/>
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="350" alt="design gif"/>
 
 </div>
 
-### my approach to development:
+### my development principles:
 
 - 🎯 **user-centric design** - always prioritizing user experience and accessibility
 - ⚡ **performance first** - optimizing for speed and efficiency from day one
@@ -254,6 +271,7 @@ const currentStatus = {
 - 📱 **responsive design** - creating seamless experiences across all devices
 - 🔒 **security-minded** - implementing best practices for data protection
 - 🌱 **scalable architecture** - building systems that grow with business needs
+- 💡 **innovation-driven** - always exploring new technologies and methodologies
 
 ---
 
@@ -275,14 +293,15 @@ const currentStatus = {
 - 🎓 **knowledge sharing** - mentoring, code reviews, best practices
 - 🌍 **open source** - contributing to meaningful projects and communities
 - ☕ **casual chats** - connecting with fellow developers and tech enthusiasts
+- 🎮 **gaming projects** - fivem servers, minecraft plugins, discord bots
 
-*feel free to reach out if you want to build something amazing together!* 😊
+*despite being 17, i bring professional-level expertise and passion to every project!* 😊
 
 </div>
 
 ---
 
-## 💡 daily inspiration
+## 💡 daily inspiration & quotes
 
 <div align="center">
 
@@ -290,13 +309,15 @@ const currentStatus = {
 
 ### personal mantras:
 
-> *"code is poetry written in logic"*
+> *"age is just a number, code quality is everything"*
 
-> *"every expert was once a beginner"*
+> *"every expert was once a beginner, every pro was once an amateur"*
 
 > *"the best time to plant a tree was 20 years ago. the second best time is now"*
 
 > *"innovation distinguishes between a leader and a follower"*
+
+> *"young minds, fresh perspectives, endless possibilities"*
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" alt="matrix gif"/>
 
@@ -304,17 +325,19 @@ const currentStatus = {
 
 ---
 
-## 📅 development timeline
+## 📅 my development journey
 
 <div align="center">
 
-| **year** | **milestone** | **achievement** |
-|----------|---------------|-----------------|
-| **2021** | 🌱 **started coding** | learned html, css, javascript basics |
-| **2022** | 🚀 **first projects** | built first websites and discord bots |
-| **2023** | 💼 **freelance work** | started taking on client projects |
-| **2024** | 🎯 **specialization** | focused on full-stack development |
-| **2025** | 🔥 **current goals** | scaling business, open source contributions |
+| **year** | **age** | **milestone** | **achievement** |
+|----------|---------|---------------|-----------------|
+| **2021** | **14** | 🌱 **started coding** | learned html, css, javascript basics |
+| **2022** | **15** | 🚀 **first projects** | built first websites and discord bots |
+| **2023** | **16** | 💼 **freelance work** | started taking on client projects |
+| **2024** | **17** | 🎯 **specialization** | focused on full-stack development |
+| **2025** | **17** | 🔥 **current goals** | scaling business, open source contributions |
+
+*started young, thinking big, coding bigger* 🚀
 
 </div>
 
@@ -324,18 +347,29 @@ const currentStatus = {
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="200" alt="fun gif"/>
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="250" alt="fun gif"/>
 
 </div>
 
-- 🎵 **music lover** - coding sessions are always accompanied by great music
-- ☕ **coffee enthusiast** - fuel for late-night coding marathons  
-- 🎮 **gamer** - when not coding, you'll find me exploring virtual worlds
-- 📚 **continuous learner** - always reading tech blogs and documentation
+- 🎵 **music addict** - coding sessions are always accompanied by epic playlists
+- ☕ **coffee enthusiast** - fuel for those late-night coding marathons  
+- 🎮 **passionate gamer** - when not coding, exploring virtual worlds
+- 📚 **knowledge seeker** - always reading tech blogs and documentation
 - 🌙 **night owl** - most productive during late evening hours
-- 🏃‍♂️ **fitness advocate** - balancing screen time with physical activity
-- 🍕 **pizza connoisseur** - the ultimate debugging companion
-- 🎬 **sci-fi fan** - fascinated by technology and future possibilities
+- 🍕 **pizza lover** - the ultimate debugging companion
+- 🎬 **sci-fi enthusiast** - fascinated by technology and future possibilities
+- 🇷🇸 **proud serbian** - representing the balkans in tech
+- 🧠 **young visionary** - proving age doesn't limit potential
+
+---
+
+## 🌍 github contributions map
+
+<div align="center">
+
+![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+</div>
 
 ---
 
@@ -351,10 +385,12 @@ const currentStatus = {
 
 **⭐ if you find my work interesting, feel free to star my repositories! ⭐**
 
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="25%" alt="coding gif"/>
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="30%" alt="coding gif"/>
 
 *thanks for visiting my profile! let's create something extraordinary!* 🔥
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+<img src="https://flagcdn.com/w40/rs.png" width="30" alt="Serbia flag"/> *proudly coding from serbia* <img src="https://flagcdn.com/w40/rs.png" width="30" alt="Serbia flag"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
 </div>
